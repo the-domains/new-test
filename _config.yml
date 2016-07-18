@@ -1,0 +1,14 @@
+layout_spectrum: 0.39519423712044954
+typography_spectrum: 0.2893336412962526
+color:
+  brandStrength: 0.5825727882329375
+  lightness: 0.7320933958981186
+  saturation: 0.6741330318618566
+  rhythmicContrast: 0.5497089948039502
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: New Test
